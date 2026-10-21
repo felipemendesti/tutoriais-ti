@@ -82,7 +82,7 @@ Entre as tecnologias abordadas ou exploradas neste projeto estão:
 
 **Servidores e virtualização:** Samba, Active Directory, Univention Corporate Server (UCS) e Proxmox VE.
 
-**Monitoramento e gestão:** Zabbix, Grafana, GLPI e Checkmk.
+**Monitoramento e gestão:** Zabbix, Grafana, Dolibarr.
 
 **Backup e armazenamento:** soluções de backup local e em nuvem, armazenamento em rede e estratégias de recuperação de dados.
 
