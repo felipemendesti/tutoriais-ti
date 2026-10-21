@@ -41,7 +41,7 @@ Siga as instruções exibidas pela ferramenta para concluir a integração.
 ### 2.1. Instalar os pacotes necessários
 
 ```bash
-sudo apt update
+sudo apt update && apt upgrade -y
 sudo apt install -y realmd sssd sssd-tools libnss-sss libpam-sss adcli samba-common-bin
 ```
 
