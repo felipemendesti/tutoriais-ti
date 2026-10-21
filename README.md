@@ -101,7 +101,7 @@ Se algum tutorial deste repositório te salvou horas de pesquisa, resolveu aquel
 **É só apontar a câmera para o QR Code abaixo e contribuir.**
 
 <p align="center">
-  <img src="pix_qr.jpeg" alt="QR Code para contribuir com uma pizza" width="220">
+  <img src="pix_qr.png" alt="QR Code para contribuir com uma pizza" width="220">
 </p>
 
 <p align="center">
